@@ -20,7 +20,7 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://cessna/meshes/body.dae</uri>
+            <uri>model://cessna/meshes/body-test-1.dae</uri>
           </mesh>
         </geometry>
       </collision>
@@ -28,7 +28,7 @@
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://cessna/meshes/body.dae</uri>
+            <uri>model://cessna/meshes/body-test-1.dae</uri>
           </mesh>
         </geometry>
       </visual>
