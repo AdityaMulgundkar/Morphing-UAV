@@ -24,7 +24,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
+            <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
             <scale>10 10 20</scale>
           </mesh>
         </geometry>
@@ -46,7 +46,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
+            <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -120,7 +120,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
+            <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
             <scale>10 10 20</scale>
           </mesh>
         </geometry>
@@ -142,7 +142,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
+            <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/naca0015.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -210,7 +210,7 @@
           <pose frame=''>0 0 0 0 0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/body-no-wing.dae</uri>
+              <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/body-no-wing.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -230,7 +230,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/sarthak/catkin_ws/src/Morphing-UAV/models/cessna/meshes/body-no-wing.dae</uri>
+              <uri>/opt/ros/kinetic/src/Morphing-UAV/models/cessna/meshes/body-no-wing.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
