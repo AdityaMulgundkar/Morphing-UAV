@@ -86,13 +86,13 @@
         </geometry>
       </collision>
 
-      <visual name="visual">
+      <!--<visual name="visual">
         <geometry>
           <mesh>
             <uri>model://cessna/meshes/left_aileron.dae</uri>
           </mesh>
         </geometry>
-      </visual>
+      </visual>-->
     </link>
 
     <link name="left_flap">
@@ -274,13 +274,13 @@
           </mesh>
         </geometry>
       </collision>
-      <visual name="visual">
+      <!--<visual name="visual">
         <geometry>
           <mesh>
             <uri>model://cessna/meshes/cessna_prop.dae</uri>
           </mesh>
         </geometry>
-      </visual>
+      </visual>-->
     </link>
 
     <link name="front_wheel">
