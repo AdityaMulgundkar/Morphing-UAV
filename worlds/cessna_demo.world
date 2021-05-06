@@ -154,6 +154,24 @@
         <control_joint_rad_to_cl>-2.0</control_joint_rad_to_cl>
       </plugin>
 
+      <plugin name="left_wing_2" filename="libLiftDragPlugin.so">
+        <a0>0.05984281113</a0>
+        <cla>4.752798721</cla>
+        <cda>0.6417112299</cda>
+        <cma>-1.8</cma>
+        <alpha_stall>0.3391428111</alpha_stall>
+        <cla_stall>-3.85</cla_stall>
+        <cda_stall>-0.9233984055</cda_stall>
+        <cma_stall>0</cma_stall>
+        <cp>-1 2.205 1.5</cp>
+        <area>8.08255</area>
+        <air_density>1.2041</air_density>
+        <forward>1 0 0</forward>
+        <upward>0 0 1</upward>
+        <link_name>cessna_c172::body</link_name>
+        <control_joint_rad_to_cl>-2.0</control_joint_rad_to_cl>
+      </plugin>
+
       <plugin name="right_wing" filename="libLiftDragPlugin.so">
         <a0>0.05984281113</a0>
         <cla>4.752798721</cla>
