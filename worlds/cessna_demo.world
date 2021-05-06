@@ -72,7 +72,7 @@
 
     <model name="cessna_c172">
       <include>
-        <uri>file://models/cessna</uri>
+        <uri>file://models/cessna_naca</uri>
       </include>
 
       <link name="blade_1_visual">
